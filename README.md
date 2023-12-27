@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on application to stage youtube video uploads
+- 🔭 I’m currently working on an application to stage YouTube video uploads
 - 🌱 I’m currently learning Full stack Development
 -  📫 How to reach me: arnoldanand.work@gmail.com
 <!--
