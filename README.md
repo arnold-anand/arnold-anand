@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on application to stage youtube video uploads
+- 🌱 I’m currently learning Full stack Development
+-  📫 How to reach me: arnoldanand.work@gmail.com
 <!--
 **arnold-anand/arnold-anand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
