@@ -16,3 +16,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br>
+<div align="center">
+	<a href="https://arnold-anand-readme-stats.vercel.app/api?username=arnold-anand&show_icons=true&theme=vision-friendly-dark" target="_blank">
+		<img align="center" height="175" src="https://arnold-anand-readme-stats.vercel.app/api?username=arnold-anand&show_icons=true&theme=vision-friendly-dark">
+	</a>
+	<a href="https://arnold-anand-readme-stats.vercel.app/api/top-langs/?username=arnold-anand3&layout=compact&langs_count=6&theme=radical" target="_blank">
+		<img align="center" height="175" src="https://arnold-anand-readme-stats.vercel.app/api/top-langs/?username=arnold-anand3&layout=compact&langs_count=6&theme=radical">
+	</a>
+</div>
